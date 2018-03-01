@@ -3,7 +3,7 @@
 
 	"name":"Douban Broadcast Helper",
 	"description":"Adds functionality to Douban's homepage broadcast feed",
-	"version":"1.0",
+	"version":"1.1",
 
 	"page_action": {
 		"default_icon":"icon.png",
